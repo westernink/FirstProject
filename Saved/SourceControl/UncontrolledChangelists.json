@@ -5,7 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"E:/Unreal Engine/FirstProject/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"E:/Unreal Engine/FirstProject/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"E:/Unreal Engine/FirstProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset",
+				"E:/Unreal Engine/FirstProject/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"E:/Unreal Engine/FirstProject/Content/Blueprint_Actor.uasset"
 			]
 		}
 	]
